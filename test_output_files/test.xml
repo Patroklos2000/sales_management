@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Agent>
+    <Name>Vassileios Zarras</Name>
+    <AFM>130456097</AFM>
+    <Total_Sales>58500.0</Total_Sales>
+    <Trousers_Sales>30.0</Trousers_Sales>
+    <Skirts_Sales>40.0</Skirts_Sales>
+    <Shirts_Sales>20.0</Shirts_Sales>
+    <Coats_Sales>215.0</Coats_Sales>
+    <Commission>9200.0</Commission>
+</Agent>
